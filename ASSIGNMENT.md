@@ -7,7 +7,7 @@ This take-home assignment is designed to evaluate your Site Reliability Engineer
 ## Assignment Details
 
 ### Time Limit
-- You have 72 hours to complete this assignment from the time you receive it.
+- You have 5 days to complete this assignment from the time you receive it.
 
 ### Getting Started
 
@@ -90,7 +90,7 @@ Your submission will be evaluated on:
    - Any additional features or improvements you've added
    - Known limitations or areas for future improvement
 
-3. Submit your zip file to Movable Ink within the 72-hour time limit
+3. Submit your zip file to Movable Ink within the 5 day time limit
 
 ## Tips for Success
 
