@@ -32,4 +32,4 @@ test_ips.txt
 *.env
 
 # Binary output
-server
+/server
